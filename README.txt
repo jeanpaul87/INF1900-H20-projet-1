@@ -1,8 +1,8 @@
 // Cours:       INF1900 - Projet initial de système embarqué (H20)
-// Auteurs:     ALTURK, Jean-Michel
-//              KHOUEIRY, Jean-Paul
-//              GILBERT, Kim
-//              LI, Ruijie
+// Auteurs:     ALTURK, Jean-Michel (jeanmichel25)
+//              KHOUEIRY, Jean-Paul (jeanpaul87)
+//              GILBERT, Kim (atarixgb)
+//              LI, Ruijie (ruiJie99)
 // Date:        17 avril 2020
 
 
